@@ -1,0 +1,26 @@
+{
+  "name": "hw2",
+  "version": "1.0.0",
+  "description": "Ben Alexandr PE 19 Online",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "del": "^7.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-js-minify": "^0.0.3",
+    "gulp-sass": "^5.1.0"
+  },
+  "dependencies": {
+    "gulp-htmlmin": "^5.0.1",
+    "sass": "^1.62.1"
+  }
+}
